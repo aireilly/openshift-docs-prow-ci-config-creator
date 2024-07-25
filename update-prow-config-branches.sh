@@ -4,7 +4,7 @@
 while IFS=, read -r BRANCH VERSION DISTROS; do
     export VERSION BRANCH DISTROS
     if [ -z "$VERSION" ] || [ -z "$BRANCH" ] || [ -z "$DISTROS" ]; then
-        echo "Provide values for \$VERSION, \$BRANCH, \$DISTROS variables."
+        echo "The CSV file is missing data for one or more columns. Provide values for \$VERSION, \$BRANCH, \$DISTROS variables."
         exit 1
     fi
 

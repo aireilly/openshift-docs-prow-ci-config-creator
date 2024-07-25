@@ -1,24 +1,49 @@
-build-docs-main,1.1,"openshift-builds"
-build-docs-1.0,1.0,"openshift-builds"
-build-docs-1.1,1.1,"openshift-builds"
-gitops-docs-main,1.12,"openshift-gitops"
-gitops-docs-1.10,1.10,"openshift-gitops"
-gitops-docs-1.11,1.11,"openshift-gitops"
-gitops-docs-1.12,1.12,"openshift-gitops"
-gitops-docs-1.8,1.8,"openshift-gitops"
-gitops-docs-1.9,1.9,"openshift-gitops"
-opp-docs-main,4.15,"openshift-opp"
-opp-docs-1.0,4.15,"openshift-opp"
-pipelines-docs-main,1.10,"openshift-pipelines"
-pipelines-docs-1.10,1.10,"openshift-pipelines"
-pipelines-docs-1.11,1.11,"openshift-pipelines"
-pipelines-docs-1.12,1.12,"openshift-pipelines"
-pipelines-docs-1.13,1.13,"openshift-pipelines"
-pipelines-docs-1.14,1.14,"openshift-pipelines"
-serverless-docs-main,1.31,"openshift-serverless"
-serverless-docs-1.28,1.28,"openshift-serverless"
-serverless-docs-1.29,1.29,"openshift-serverless"
-serverless-docs-1.30,1.30,"openshift-serverless"
-serverless-docs-1.31,1.31,"openshift-serverless"
-serverless-docs-1.32,1.32,"openshift-serverless"
-service-mesh-docs-main,4.15,"openshift-service-mesh"
+build-docs-1.0,1.0,openshift-builds
+build-docs-1.1,1.1,openshift-builds
+build-docs-main,1.1,openshift-builds
+dtotel-docs-3.3,4.16,openshift-enterprise
+enterprise-4.11,4.11,openshift-enterprise
+enterprise-4.12,4.12,openshift-enterprise
+enterprise-4.13,4.13,openshift-enterprise
+enterprise-4.14,4.14,openshift-enterprise microshift
+enterprise-4.15,4.15,openshift-enterprise microshift
+enterprise-4.16,4.16,openshift-enterprise openshift-rosa openshift-dedicated microshift
+enterprise-4.17,4.17,openshift-enterprise openshift-rosa openshift-dedicated microshift
+gitops-docs-1.10,1.10,openshift-gitops
+gitops-docs-1.11,1.11,openshift-gitops
+gitops-docs-1.12,1.12,openshift-gitops
+gitops-docs-1.13,1.13,openshift-gitops
+gitops-docs-1.14,1.14,openshift-gitops
+gitops-docs-1.8,1.8,openshift-gitops
+gitops-docs-1.9,1.9,openshift-gitops
+gitops-docs-main,1.14,openshift-gitops
+lightspeed-docs-1.0tp1,4.15,openshift-lightspeed
+lightspeed-docs-main,4.15,openshift-lightspeed
+logging-docs-6.0,4.16,openshift-enterprise openshift-rosa openshift-dedicated
+main,4.16,openshift-enterprise openshift-rosa openshift-dedicated microshift
+no-1.5,4.15,openshift-enterprise openshift-rosa openshift-dedicated microshift
+no-1.6,4.16,openshift-enterprise openshift-rosa openshift-dedicated microshift
+no-1.7,4.17,openshift-enterprise openshift-rosa openshift-dedicated microshift
+opp-docs-main,4.15,openshift-opp
+pipelines-docs-1.10,1.10,openshift-pipelines
+pipelines-docs-1.11,1.11,openshift-pipelines
+pipelines-docs-1.12,1.12,openshift-pipelines
+pipelines-docs-1.13,1.13,openshift-pipelines
+pipelines-docs-1.14,1.14,openshift-pipelines
+pipelines-docs-1.15,1.15,openshift-pipelines
+pipelines-docs-1.16,1.16,openshift-pipelines
+pipelines-docs-main,1.16,openshift-pipelines
+prow-test-2,4.16,openshift-enterprise openshift-rosa openshift-dedicated microshift
+rhacs-docs-4.3,4.3,openshift-acs
+rhacs-docs-4.4,4.4,openshift-acs
+rhacs-docs-4.5,4.5,openshift-acs
+rhacs-docs-main,4.5,openshift-acs
+rhde-docs-main,4.15,openshift-rhde
+serverless-docs-1.28,1.28,openshift-serverless
+serverless-docs-1.29,1.29,openshift-serverless
+serverless-docs-1.30,1.30,openshift-serverless
+serverless-docs-1.31,1.31,openshift-serverless
+serverless-docs-1.32,1.32,openshift-serverless
+serverless-docs-1.33,1.33,openshift-serverless
+serverless-docs-main,1.33,openshift-serverless
+service-mesh-docs-main,4.15,openshift-service-mesh
